@@ -1,4 +1,4 @@
-= Riak Scout Plugins
+# Riak Scout Plugins
 
 This represents a basic Riak Scout Plugin. By default it reports on:
 
@@ -30,13 +30,13 @@ configuration option to change this url.
 
 We (http://madmimi.com) run this in production on Riak 1.0.3.
 
-== Future
+## Future
 
 Because Scout limits the number of reported values per plugin to 20, the intention is to create 
 several plugins with different defaults covering the many metrics that Riak is able to report
 by category. 
 
-== License
+## License
 
 Copyright (c) 2011 Mad Mimi, LLC
 Marc Heiligers (marc@madmimi.com)
