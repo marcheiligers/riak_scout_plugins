@@ -38,7 +38,7 @@ by category.
 
 ## License
 
-Copyright (c) 2011 Mad Mimi, LLC
+Copyright (c) 2011-2012 Mad Mimi, LLC
 Marc Heiligers (marc@madmimi.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software 
